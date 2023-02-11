@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Maryna-Korbet/cli-guess-the-number/issues"
   },
-  "homepage": "https://github.com/Maryna-Korbet/cli-guess-the-number#readme"
+  "homepage": "https://github.com/Maryna-Korbet/cli-guess-the-number#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^10.0.0"
+  }
 }
